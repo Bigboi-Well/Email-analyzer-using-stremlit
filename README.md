@@ -31,6 +31,15 @@ It demonstrates how to build an **AI-powered email analysis tool** that can:
 - **Datetime**
 
 ---
+## 📂 Project Structure
+email_analyzer/
+│── app.py                  # Main Streamlit app
+│── workshop_database.json  # Stores emails
+│── requirements.txt        # Dependencies
+│── images/                 # Screenshots
+│── README.md               # Documentation
+
+
 
 ## 🚀 How to Run
 ### 1. Clone the repo
