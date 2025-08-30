@@ -36,4 +36,4 @@ It demonstrates how to build an **AI-powered email analysis tool** that can:
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/<your-username>/email-analyzer.git
-cd email-analyzer
+
